@@ -1,7 +1,7 @@
-Bangkit Git Learnning Repository
+Google Bangkit 2022 : Cloud Computing Path Learning Repository
 ==
-repository for Google Bangkit 
+Copyright C0nfuseus 2022 
 --
-*in Bahasa*
+*learning purpose only repository*
 --
-Repository ini adalah repository untuk pembalajarn Git dan Github.
+Repository ini adalah repository untuk progress Google Bangkit 2022 : Cloud Computing Path. Apabila anda ingin membantu repository ini silakan hubungi Dimas Nazli Bahaduri di jobdesk.nazli@gmail.com
