@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&family=Raleway:wght@300&display=swap');
+
+body{
+    font-family: 'Oswald', sans-serif;    
+}
+
+h1{
+    font-size: 42px;
+}
+
+p{
+    font-family: 'Raleway',sans-serif;
+    font-size: 20px;
+}
+
+#paak-nya{
+    width: 500px;
+}
+
+#bruno-nya{
+    width: 500px;
+}
+
+#album-nya{
+    width: 400px;
+}
+#profile-pict{
+    width: 200px;
+}
