@@ -1,29 +1,79 @@
-@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&family=Raleway:wght@300&display=swap');
-
-body{
-    font-family: 'Oswald', sans-serif;    
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Oswald:wght@500&display=swap');
+#navigasti-atas{
+    overflow: auto;
 }
-
+html{
+    margin: 0;
+    padding: 0;
+    align-items: center;
+    text-align: center;}
+body{
+    background-color: #FFE8D6;
+    font-family: 'Oswald', sans-serif;
+    text-align: justify;}
+nav{
+    padding: 1vw;}
+#judul{
+    margin-bottom: 100px;}
+#menu-pilihan{
+    position: relative;
+    padding: 0 5px 0 5px;
+    float: right;}
+#menu-pilihan:hover{
+    color: #A5A58D;}
+#menu-pilihan:active{
+    text-decoration: none;}
+#menu-pilihan:link{
+    color: #DDBEA9;
+    text-decoration: none;}
+#menu-pilihan:visited{
+    text-decoration: none;}
+.footer-desc{
+    font-size: 10px;
+    display: inline-block;}
+.judul-web{
+    font-size: 80px;
+    margin: -20px 0 -20px 0;}
+#text-card-aside{
+    font-size: 14px;
+    text-align: justify;}
+#card-aside{
+    display: inline-block;
+    text-align: center;
+    align-items: center;
+    width: auto;
+    object-fit: none;
+    object-position: 5px 10%;   
+    overflow: auto;}
 h1{
     font-size: 42px;
-}
-
+    color: #3F4238;}
 p{
-    font-family: 'Raleway',sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 20px;
-}
-
+    color: #6B705C;}
 #paak-nya{
-    width: 500px;
-}
-
+    max-width: 500px;}
 #bruno-nya{
-    width: 500px;
-}
-
+    max-width: 500px;}
 #album-nya{
-    width: 400px;
-}
+    max-width: 500px;}
 #profile-pict{
-    width: 200px;
-}
+    max-width: 200px;
+    margin-left: 30px;
+    margin-right: 30px;}
+.article{
+    text-align: center;
+    align-items: center;
+    width: auto;
+    object-fit: none;
+    object-position: 5px 10%;   
+    overflow: auto;}
+.card-aside-content{
+    display: flex;
+    width: 100%;
+    height: auto;}
+#credit{
+    text-align: center;
+    display: inline;
+    padding-left: 20px;}
