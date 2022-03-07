@@ -1,0 +1,19 @@
+{
+  "name": "dimas",
+  "version": "1.0.0",
+  "description": "Module Node.js Belajar Bangkit",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/C0nfuseus/Bangkit-Git-Learning.git"
+  },
+  "author": "Dimas Nazli Bahaduri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/C0nfuseus/Bangkit-Git-Learning/Back-End Basic/nodejs-basix/issues"
+  },
+  "homepage": "https://github.com/C0nfuseus/Bangkit-Git-Learning#readme"
+}
